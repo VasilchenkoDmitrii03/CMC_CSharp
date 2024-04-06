@@ -7,14 +7,18 @@ using System.Security.Cryptography.Xml;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
+using System.Windows.Threading;
 using Lab_1;
+using OxyPlot;
 namespace WPF
 {
-    class ViewData : INotifyPropertyChanged
+    class ViewData : INotifyPropertyChanged, IDataErrorInfo
     {
         public V1DataArray _array;
-        SplineData _spline;
+        public SplineData _spline;
         Random _random = new Random();
+        public Plot plotModel { get; set; }
+
         public ViewData()
         {
 
@@ -82,6 +86,31 @@ namespace WPF
         
         public List<Function> Functions { get; set; }
         public Function SelectedFunction { get; set; }
+
+        public string Error { get { throw new FormatException(); } }
+
+        public string this[string prop] {
+            get
+            {
+                string msg = null;
+                switch (prop)
+                {
+                    case "PointsCount":
+                        if (PointsCount < 3) msg = "There are must be not less then 3 points in data";
+                        break;
+                    case "SplinePointsCount":
+                        if (SplinePointsCount < 3) msg = "There are must be not less then 3 points in spline";
+                        break;
+                    case "Bounds":
+                        if (Bounds[0] >= Bounds[1]) msg = "Left bound must be less then right bound";
+                        break;
+                    default:
+                        break;
+                }
+                return msg;
+            }
+        }
+
         private void FillFunctions()
         {
             Functions = new List<Function>();

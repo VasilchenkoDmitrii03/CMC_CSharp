@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "NT44sTq1XEZL2VT93fsaQTRIIR5nbOCEPuTQKWNDfv4VlUYOvrqNXN9Y9wy7/WJGhpLOc1PIDkeMIkDkA1bQ0g==",
+  "dgSpecHash": "YeAfXPybCNkz/mTTZ4fsUMuhOTh735fwHJc9DcymSM8v0drpzhqVrmK8+4/yEOu9IdJ0bI54/Qpb90vNHWc/hg==",
   "success": true,
   "projectFilePath": "C:\\Users\\demosfenn\\Downloads\\cmccsharplab3-main\\cmccsharplab3-main\\WPF\\WPF.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\demosfenn\\.nuget\\packages\\oxyplot.core\\2.1.2\\oxyplot.core.2.1.2.nupkg.sha512",
+    "C:\\Users\\demosfenn\\.nuget\\packages\\oxyplot.wpf\\2.1.2\\oxyplot.wpf.2.1.2.nupkg.sha512",
+    "C:\\Users\\demosfenn\\.nuget\\packages\\oxyplot.wpf.shared\\2.1.2\\oxyplot.wpf.shared.2.1.2.nupkg.sha512"
+  ],
   "logs": []
 }

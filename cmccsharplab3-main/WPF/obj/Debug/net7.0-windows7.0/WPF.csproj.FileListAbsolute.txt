@@ -36,3 +36,4 @@ C:\Users\demosfenn\Downloads\cmccsharplab3-main\cmccsharplab3-main\Build\Debug\n
 C:\Users\demosfenn\Downloads\cmccsharplab3-main\cmccsharplab3-main\Build\Debug\net7.0-windows7.0\WPF.dll
 C:\Users\demosfenn\Downloads\cmccsharplab3-main\cmccsharplab3-main\Build\Debug\net7.0-windows7.0\WPF.pdb
 C:\Users\demosfenn\Downloads\cmccsharplab3-main\cmccsharplab3-main\WPF\obj\Debug\net7.0-windows7.0\WPF.csproj.Up2Date
+C:\Users\demosfenn\Downloads\cmccsharplab3-main\cmccsharplab3-main\WPF\obj\Debug\net7.0-windows7.0\WPF.sourcelink.json

@@ -11,7 +11,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
-
+using OxyPlot;
 namespace WPF
 {
     /// <summary>
@@ -77,6 +77,9 @@ namespace WPF
                 if (_openFileDialog.ShowDialog() == true)
                 {
                     _data.Load(_openFileDialog.FileName);
+                    _data.plotModel = new Plot(_data._spline);
+                    this.DataContext = null;
+                    this.DataContext = _data;
                 }
             }
             catch
@@ -84,5 +87,51 @@ namespace WPF
                 MessageBox.Show("Problems with opening file");
             }
          }
+        private void SaveHandler(object sender, ExecutedRoutedEventArgs e)
+        {
+            SaveFile(null, null);
+        }
+        private void ExecuteHandler(object sender, ExecutedRoutedEventArgs e)
+        {
+            try
+            {
+                _data.BuildDataArray();
+                _data.BuildSplineData();
+                _data.plotModel = new Plot(_data._spline) ;
+                this.DataContext = null;
+                this.DataContext = _data;
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.ToString());
+            }
+        }
+        private void CanExecuteHandler(object sender, CanExecuteRoutedEventArgs e)
+        {
+            
+            if (SplinePointsCountTextBox != null && BoundsTextBox != null && PointsCountTextBox != null)
+            {
+                if (Validation.GetHasError(SplinePointsCountTextBox) == true || Validation.GetHasError(BoundsTextBox) == true || Validation.GetHasError(PointsCountTextBox) == true)
+                {
+                    e.CanExecute = false;
+                    return;
+                }
+                e.CanExecute = true;
+            }
+            else e.CanExecute = false;
+        }
+        private void CanSaveHandler(object sender, CanExecuteRoutedEventArgs e)
+        {
+            if ( BoundsTextBox != null && PointsCountTextBox != null)
+            {
+                if (Validation.GetHasError(BoundsTextBox) == true || Validation.GetHasError(PointsCountTextBox) == true)
+                {
+                    e.CanExecute = false;
+                    return;
+                }
+                e.CanExecute = true;
+            }
+            else e.CanExecute = false;
+        }
     }
 }
