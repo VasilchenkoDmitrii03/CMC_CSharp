@@ -1,0 +1,2 @@
+C:\Users\demosfenn\Downloads\cmccsharplab3-main\cmccsharplab3-main\tmpProj\obj\Debug\tmpProj.csproj.AssemblyReference.cache
+C:\Users\demosfenn\Downloads\cmccsharplab3-main\cmccsharplab3-main\tmpProj\obj\Debug\tmpProj.csproj.SuggestedBindingRedirects.cache

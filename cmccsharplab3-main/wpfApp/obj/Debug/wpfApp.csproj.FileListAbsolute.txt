@@ -1,0 +1,16 @@
+C:\Users\demosfenn\Downloads\cmccsharplab3-main\cmccsharplab3-main\wpfApp\bin\Debug\wpfApp.exe.config
+C:\Users\demosfenn\Downloads\cmccsharplab3-main\cmccsharplab3-main\wpfApp\bin\Debug\wpfApp.exe
+C:\Users\demosfenn\Downloads\cmccsharplab3-main\cmccsharplab3-main\wpfApp\bin\Debug\wpfApp.pdb
+C:\Users\demosfenn\Downloads\cmccsharplab3-main\cmccsharplab3-main\wpfApp\obj\Debug\wpfApp.csproj.AssemblyReference.cache
+C:\Users\demosfenn\Downloads\cmccsharplab3-main\cmccsharplab3-main\wpfApp\obj\Debug\wpfApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\demosfenn\Downloads\cmccsharplab3-main\cmccsharplab3-main\wpfApp\obj\Debug\MainWindow.g.cs
+C:\Users\demosfenn\Downloads\cmccsharplab3-main\cmccsharplab3-main\wpfApp\obj\Debug\App.g.cs
+C:\Users\demosfenn\Downloads\cmccsharplab3-main\cmccsharplab3-main\wpfApp\obj\Debug\wpfApp_MarkupCompile.cache
+C:\Users\demosfenn\Downloads\cmccsharplab3-main\cmccsharplab3-main\wpfApp\obj\Debug\wpfApp_MarkupCompile.lref
+C:\Users\demosfenn\Downloads\cmccsharplab3-main\cmccsharplab3-main\wpfApp\obj\Debug\MainWindow.baml
+C:\Users\demosfenn\Downloads\cmccsharplab3-main\cmccsharplab3-main\wpfApp\obj\Debug\wpfApp.g.resources
+C:\Users\demosfenn\Downloads\cmccsharplab3-main\cmccsharplab3-main\wpfApp\obj\Debug\wpfApp.Properties.Resources.resources
+C:\Users\demosfenn\Downloads\cmccsharplab3-main\cmccsharplab3-main\wpfApp\obj\Debug\wpfApp.csproj.GenerateResource.cache
+C:\Users\demosfenn\Downloads\cmccsharplab3-main\cmccsharplab3-main\wpfApp\obj\Debug\wpfApp.csproj.CoreCompileInputs.cache
+C:\Users\demosfenn\Downloads\cmccsharplab3-main\cmccsharplab3-main\wpfApp\obj\Debug\wpfApp.exe
+C:\Users\demosfenn\Downloads\cmccsharplab3-main\cmccsharplab3-main\wpfApp\obj\Debug\wpfApp.pdb

@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\demosfenn\\Downloads\\cmccsharplab3-main\\cmccsharplab3-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6650315F-C7EF-4731-A2D6-D828975E8C17}|WPF\\WPF.csproj|C:\\Users\\demosfenn\\Downloads\\cmccsharplab3-main\\cmccsharplab3-main\\wpf\\viewdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6650315F-C7EF-4731-A2D6-D828975E8C17}|WPF\\WPF.csproj|solutionrelative:wpf\\viewdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035C1634-1460-434D-8009-365C52218B31}|lab3\\lab3.csproj|c:\\users\\demosfenn\\downloads\\cmccsharplab3-main\\cmccsharplab3-main\\lab3\\v1collections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{035C1634-1460-434D-8009-365C52218B31}|lab3\\lab3.csproj|solutionrelative:lab3\\v1collections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035C1634-1460-434D-8009-365C52218B31}|lab3\\lab3.csproj|c:\\users\\demosfenn\\downloads\\cmccsharplab3-main\\cmccsharplab3-main\\lab3\\spline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{035C1634-1460-434D-8009-365C52218B31}|lab3\\lab3.csproj|solutionrelative:lab3\\spline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035C1634-1460-434D-8009-365C52218B31}|lab3\\lab3.csproj|C:\\Users\\demosfenn\\Downloads\\cmccsharplab3-main\\cmccsharplab3-main\\lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{035C1634-1460-434D-8009-365C52218B31}|lab3\\lab3.csproj|solutionrelative:lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6650315F-C7EF-4731-A2D6-D828975E8C17}|WPF\\WPF.csproj|c:\\users\\demosfenn\\downloads\\cmccsharplab3-main\\cmccsharplab3-main\\wpf\\wpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6650315F-C7EF-4731-A2D6-D828975E8C17}|WPF\\WPF.csproj|solutionrelative:wpf\\wpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6650315F-C7EF-4731-A2D6-D828975E8C17}|WPF\\WPF.csproj|c:\\users\\demosfenn\\downloads\\cmccsharplab3-main\\cmccsharplab3-main\\wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6650315F-C7EF-4731-A2D6-D828975E8C17}|WPF\\WPF.csproj|solutionrelative:wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "V1Collections.cs",
+              "DocumentMoniker": "C:\\Users\\demosfenn\\Downloads\\cmccsharplab3-main\\cmccsharplab3-main\\lab3\\V1Collections.cs",
+              "RelativeDocumentMoniker": "lab3\\V1Collections.cs",
+              "ToolTip": "C:\\Users\\demosfenn\\Downloads\\cmccsharplab3-main\\cmccsharplab3-main\\lab3\\V1Collections.cs",
+              "RelativeToolTip": "lab3\\V1Collections.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAIwHwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T03:36:48.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViewData.cs",
+              "DocumentMoniker": "C:\\Users\\demosfenn\\Downloads\\cmccsharplab3-main\\cmccsharplab3-main\\WPF\\ViewData.cs",
+              "RelativeDocumentMoniker": "WPF\\ViewData.cs",
+              "ToolTip": "C:\\Users\\demosfenn\\Downloads\\cmccsharplab3-main\\cmccsharplab3-main\\WPF\\ViewData.cs",
+              "RelativeToolTip": "WPF\\ViewData.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAIwH4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T10:52:16.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\demosfenn\\Downloads\\cmccsharplab3-main\\cmccsharplab3-main\\WPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPF\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\demosfenn\\Downloads\\cmccsharplab3-main\\cmccsharplab3-main\\WPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WPF\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T09:18:57.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WPF",
+              "DocumentMoniker": "C:\\Users\\demosfenn\\Downloads\\cmccsharplab3-main\\cmccsharplab3-main\\WPF\\WPF.csproj",
+              "RelativeDocumentMoniker": "WPF\\WPF.csproj",
+              "ToolTip": "C:\\Users\\demosfenn\\Downloads\\cmccsharplab3-main\\cmccsharplab3-main\\WPF\\WPF.csproj",
+              "RelativeToolTip": "WPF\\WPF.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-06T09:18:53.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "spline.cs",
+              "DocumentMoniker": "C:\\Users\\demosfenn\\Downloads\\cmccsharplab3-main\\cmccsharplab3-main\\lab3\\spline.cs",
+              "RelativeDocumentMoniker": "lab3\\spline.cs",
+              "ToolTip": "C:\\Users\\demosfenn\\Downloads\\cmccsharplab3-main\\cmccsharplab3-main\\lab3\\spline.cs",
+              "RelativeToolTip": "lab3\\spline.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T09:16:07.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\demosfenn\\Downloads\\cmccsharplab3-main\\cmccsharplab3-main\\lab3\\Program.cs",
+              "RelativeDocumentMoniker": "lab3\\Program.cs",
+              "ToolTip": "C:\\Users\\demosfenn\\Downloads\\cmccsharplab3-main\\cmccsharplab3-main\\lab3\\Program.cs",
+              "RelativeToolTip": "lab3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T10:23:33.937Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

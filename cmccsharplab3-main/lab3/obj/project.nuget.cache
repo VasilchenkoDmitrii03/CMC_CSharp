@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "yl5+9yFsXp/2EBcy5CPYbqEzpVyvThmGl6lAuX+aMKBUgCb98wE0zz4XCHZzij1ocJ4+RuXZdDA4gxJ+p4/UnA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\demosfenn\\Downloads\\cmccsharplab3-main\\cmccsharplab3-main\\lab3\\lab3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\demosfenn\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\demosfenn\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\demosfenn\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\demosfenn\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
