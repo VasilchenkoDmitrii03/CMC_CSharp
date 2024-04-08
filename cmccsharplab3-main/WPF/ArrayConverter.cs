@@ -39,6 +39,7 @@ namespace WPF.DataBinding
                 string tmp = (string)value;
                 string[] strings = tmp.Split(new char[] { ' ', ',' });
                 result = new double[strings.Length];
+                if (result.Length != 2) throw new Exception();
                 for (int i = 0; i < strings.Length; i++)
                 {
                     result[i] = System.Convert.ToDouble(strings[i]);
@@ -48,6 +49,7 @@ namespace WPF.DataBinding
             catch
             {
                 MessageBox.Show("Wrong array input");
+                return null;
             }
             return null;
         }

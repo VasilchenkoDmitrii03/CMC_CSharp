@@ -102,7 +102,7 @@ namespace WPF
                         if (SplinePointsCount < 3) msg = "There are must be not less then 3 points in spline";
                         break;
                     case "Bounds":
-                        if (Bounds[0] >= Bounds[1]) msg = "Left bound must be less then right bound";
+                        if (Bounds != null && Bounds[0] >= Bounds[1]) msg = "Left bound must be less then right bound";
                         break;
                     default:
                         break;

@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -31,6 +32,14 @@ namespace Lab_1
         {
             return ToLongString("{0:0.00}");
             return $"X:{X}, Y1:{Y1}, Y2:{Y2}";
+        }
+        public string VisualisationView
+        {
+            get
+            {
+                string format = "{0:0.000}" ;
+                return string.Format(format, X) + " " + string.Format(format, Y1);
+            }
         }
     }
 }
